@@ -1,2 +1,2 @@
-print("its really easy to use pythob")
+print("its really easy to use python")
 
